@@ -1,0 +1,7 @@
+C:\Users\etec\Desktop\leia5num\leia5num\obj\Debug\leia5num.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\leia5num\leia5num\obj\Debug\leia5num.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\leia5num\leia5num\bin\Debug\leia5num.exe.config
+C:\Users\etec\Desktop\leia5num\leia5num\bin\Debug\leia5num.exe
+C:\Users\etec\Desktop\leia5num\leia5num\bin\Debug\leia5num.pdb
+C:\Users\etec\Desktop\leia5num\leia5num\obj\Debug\leia5num.exe
+C:\Users\etec\Desktop\leia5num\leia5num\obj\Debug\leia5num.pdb
